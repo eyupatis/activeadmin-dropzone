@@ -1,0 +1,7 @@
+tr:
+  dropzone:
+    drag_or_click: 'Dosyaları buraya sürükleyin ya da yüklemek için tıklayın'
+    cancel: 'İptal'
+    remove: 'Sil'
+    title: 'Başlık'
+    are_you_sure: 'Resimler henüz sunucuya yüklenmedi. Resimler olmadan göndermek istediğinizden emin misiniz?'
